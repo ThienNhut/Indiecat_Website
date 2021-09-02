@@ -17,7 +17,6 @@ Nguyen Hoang Quoc. My facebook search engine is [Quoc_Nguyen](https://www.facebo
 
 ![image](https://user-images.githubusercontent.com/71802115/131776830-9f973a19-16c4-4c0c-b43a-da2d19b600b1.png)
 
->> 
 >> Gift to friends in Indiecat Studio. 😊🐱‍🚀🐱‍🚀❤❤❤
 
 
