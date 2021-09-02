@@ -1,7 +1,7 @@
 # Indiecat_Website
 This is a project made for friends in Indiecat Studio. 
 
-This website is built on the idea of [https://ashorthike.com/]. Thank you Short-Hike for this template.❤❤❤
+This website is built on the idea of https://ashorthike.com/. Thank you Short-Hike for this template.❤❤❤
 
 ### Author
 
